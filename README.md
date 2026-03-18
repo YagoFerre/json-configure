@@ -191,4 +191,3 @@
   "workbench.colorTheme": "Illusion"
 }
 ```
-![WhatsApp Image 2026-03-18 at 13 17 36](https://github.com/user-attachments/assets/1975f9c6-aee4-4379-9100-3de4c840c91a)
